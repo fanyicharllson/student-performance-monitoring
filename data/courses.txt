@@ -1,0 +1,9 @@
+CS101|Introduction to Programming|3
+CS201|Data Structures & Algorithms|3
+CS301|Object-Oriented Programming|3
+CS302|Database Systems|3
+CS401|Software Engineering|3
+IS201|Systems Analysis & Design|3
+IS301|Network Administration|3
+MATH101|Discrete Mathematics|3
+SEN001|SEN|6

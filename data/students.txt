@@ -1,0 +1,6 @@
+STU001|Alice Mbarga|alice.mbarga@ictu.cm|Computer Science|Level 200|2023
+STU002|Jean-Paul Fotso|jeanpaul.fotso@ictu.cm|Computer Science|Level 300|2022
+STU003|Marie Nkomo|marie.nkomo@ictu.cm|Information Systems|Level 200|2023
+STU004|Bruno Tchamba|bruno.tchamba@ictu.cm|Computer Science|Level 400|2021
+STU005|Grace Etoga|grace.etoga@ictu.cm|Information Systems|Level 300|2022
+ICTU20233823|ESONG JOHN|john@gmail.com|Computer Science|Level 3|2023
