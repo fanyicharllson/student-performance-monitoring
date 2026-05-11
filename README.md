@@ -316,7 +316,7 @@ student_monitor.exe
 |---------|-------------|---------|
 | Compiler | `g++` | `g++` via MinGW |
 | Build | `make` | `mingw32-make` |
-| Run | `./student_monitor` | `student_monitor.exe` |
+| Run | `./student_monitor` | `./student_monitor.exe` |
 | Directory creation | `mkdir()` POSIX | `_mkdir()` Win32 |
 | File paths | Forward slash `/` | Both `/` and `\` work |
 
